@@ -7,12 +7,11 @@ This project is a **Graphical User Interface (GUI) for Steganography**, allowing
 
 The encryption process ensures that the message is securely embedded, while the decryption functionality allows retrieval of the original message.
 
-This project is associated with my **internship at IBM, Edunet Foundation**.
-
 ---
 
 ## 📸 Project Demo
 
+https://github.com/user-attachments/assets/73b59d47-ed6c-4515-9c4d-3e947a989914
 
 ---
 
@@ -26,10 +25,10 @@ This project is associated with my **internship at IBM, Edunet Foundation**.
 ---
 
 ## 🎨 Features
-✅ **User-Friendly GUI** - Simple and intuitive design for encoding and decoding messages.
-✅ **Secure Encryption** - Messages are embedded in images securely.
-✅ **Fast Processing** - Leveraging OpenCV.js for efficient image manipulation.
-✅ **Real-Time Preview** - Users can see changes instantly.
+- ✅ **User-Friendly GUI** - Simple and intuitive design for encoding and decoding messages.
+- ✅ **Secure Encryption** - Messages are embedded in images securely.
+- ✅ **Fast Processing** - Leveraging OpenCV.js for efficient image manipulation.
+- ✅ **Real-Time Preview** - Users can see changes instantly.
 
 ---
 
